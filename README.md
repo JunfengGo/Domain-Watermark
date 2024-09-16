@@ -60,4 +60,6 @@ We also provide a set of trained model in the saved_models file in https://www.d
 
 The watermarked samples can be obtained and examined by runing:
 
+```
 python test_eval.py
+```
