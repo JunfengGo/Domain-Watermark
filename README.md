@@ -51,7 +51,9 @@ After downloading the hardly-generalized domains samples and set the path, you c
 
 After setting the path, you can launch the programm by:
 
+```
 bash run.sh 
+```
 
 We also provide a set of trained model in the saved_models file in https://www.dropbox.com/s/lulp90pp4iey75t/saved_models.zip?dl=0  You can use the benign model (model_benign.pth) and watermarked model (model_DW.pth) for evaluating our approach. 
 
