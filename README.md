@@ -1,6 +1,19 @@
 # Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand
+
+This repository contains the official implementation required to replicate the primary results presented in our paper [Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand) in NeurIPS 2023. This research project is developed based on Python 3 and Pytorch, created by [Junfeng Guo](https://junfenggo.github.io/) and [Yiming Li](http://liyiming.tech/).
+
 Our implementation is based on [Industrial Scale Data Poisoning via Gradient Matching](https://github.com/JonasGeiping/poisoning-gradient-matching).
 
+If our work or this repo is useful for your research, please cite our paper as follows:
+
+```
+@inproceedings{guo2023domain,
+  title={Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand},
+  author={Guo, Junfeng and Li, Yiming and Wang, Lixu and Xia, Shu-Tao and Huang, Heng and Liu, Cong and Li, Bo},
+  booktitle={NeurIPS},
+  year={2023}
+}
+```
 
 
 ## Dependencies
