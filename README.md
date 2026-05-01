@@ -14,7 +14,7 @@ If our work or this repo is useful for your research, please cite our paper as f
   year={2023}
 }
 ```
-
+PS: Please refer to [DATABench](https://github.com/shaoshuo-ss/DATABench) for the full implementation of Domain Watermark and other methods.
 
 ## Dependencies
 
